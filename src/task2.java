@@ -14,7 +14,7 @@ public class task2 {
         while (true){
             n = in.nextInt();
             r = rand.nextInt(101);
-            if (r % 3 == 0){
+            if (r % 3 == 0){ //
                 System.out.print("Fizz");
             }
             if (r % 5 == 0) {
